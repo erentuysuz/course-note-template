@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
          <loc>https://erentuysuz.github.io/course-note-template/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://erentuysuz.github.io/course-note-template/en/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://erentuysuz.github.io/course-note-template/tr/"/>
@@ -10,7 +10,7 @@
     </url>
     <url>
          <loc>https://erentuysuz.github.io/course-note-template/license/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://erentuysuz.github.io/course-note-template/en/license/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://erentuysuz.github.io/course-note-template/tr/license/"/>
@@ -18,7 +18,7 @@
     </url>
     <url>
          <loc>https://erentuysuz.github.io/course-note-template/changelog/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://erentuysuz.github.io/course-note-template/en/changelog/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://erentuysuz.github.io/course-note-template/tr/changelog/"/>
@@ -26,7 +26,7 @@
     </url>
     <url>
          <loc>https://erentuysuz.github.io/course-note-template/resume/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://erentuysuz.github.io/course-note-template/en/resume/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://erentuysuz.github.io/course-note-template/tr/resume/"/>
@@ -34,7 +34,7 @@
     </url>
     <url>
          <loc>https://erentuysuz.github.io/course-note-template/syllabus/syllabus/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://erentuysuz.github.io/course-note-template/en/syllabus/syllabus/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://erentuysuz.github.io/course-note-template/tr/syllabus/syllabus/"/>
@@ -42,7 +42,7 @@
     </url>
     <url>
          <loc>https://erentuysuz.github.io/course-note-template/week-1/week-1/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://erentuysuz.github.io/course-note-template/en/week-1/week-1/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://erentuysuz.github.io/course-note-template/tr/week-1/week-1/"/>
@@ -50,34 +50,10 @@
     </url>
     <url>
          <loc>https://erentuysuz.github.io/course-note-template/week-2/week-2/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://erentuysuz.github.io/course-note-template/en/week-2/week-2/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://erentuysuz.github.io/course-note-template/tr/week-2/week-2/"/>
-         
-    </url>
-    <url>
-         <loc>https://erentuysuz.github.io/course-note-template/week-2/sources/llvm-clang-hello-world-apps/</loc>
-         <lastmod>2022-10-18</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://erentuysuz.github.io/course-note-template/en/week-2/sources/llvm-clang-hello-world-apps/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://erentuysuz.github.io/course-note-template/tr/week-2/sources/llvm-clang-hello-world-apps/"/>
-         
-    </url>
-    <url>
-         <loc>https://erentuysuz.github.io/course-note-template/week-2/sources/mingw-gcc-hello-world-apps/</loc>
-         <lastmod>2022-10-18</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://erentuysuz.github.io/course-note-template/en/week-2/sources/mingw-gcc-hello-world-apps/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://erentuysuz.github.io/course-note-template/tr/week-2/sources/mingw-gcc-hello-world-apps/"/>
-         
-    </url>
-    <url>
-         <loc>https://erentuysuz.github.io/course-note-template/week-2/sources/npp-gcc-hello-world-apps/</loc>
-         <lastmod>2022-10-18</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://erentuysuz.github.io/course-note-template/en/week-2/sources/npp-gcc-hello-world-apps/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://erentuysuz.github.io/course-note-template/tr/week-2/sources/npp-gcc-hello-world-apps/"/>
          
     </url>
 </urlset>
